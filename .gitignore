@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Compilación .NET
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Configuraciones locales
+#appsettings.json
+#appsettings.Development.json
+#appsettings.*.local.json
+#
+## Credenciales Google Cloud
+#*credentials*.json
+#*service-account*.json
+#*serviceaccount*.json
+#*.p12
+#*.pfx
+#
+## Variables de entorno
+#.env
+#.env.*
+#!.env.example
